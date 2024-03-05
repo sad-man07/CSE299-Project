@@ -1,0 +1,15 @@
+{
+  "name": "cse299-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CSE299-Project"
+  },
+  "author": "",
+  "license": "ISC"
+}
